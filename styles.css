@@ -1,0 +1,22 @@
+body {
+    font-family: Arial;
+    background-color: #f5f5f5;
+}
+
+nav ul {
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    font-size: 16px;
+}
+
+img {
+    width: 150px;
+}
